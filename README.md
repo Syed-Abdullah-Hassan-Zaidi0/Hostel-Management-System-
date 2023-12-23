@@ -1,0 +1,1 @@
+This C++ OOP project provides a powerful tool for managing all aspects of hostel operations, from managing reservations to tracking occupancy rates and billing. Our system has been designed using Object Oriented Programming principles, ensuring a high degree of modularity and extensibility.
